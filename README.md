@@ -16,6 +16,10 @@ availability, pricing and amenities for listings between the two cities.
 
 ## List_of_key_files
 
+### Analysis and Visualizations Script
+
+* 01_Analysis_and_insights_AirBnB_Seattle_vs_Boston_07212020.ipynb
+
 ### Seattle data files 
 
 * **./input/sea_calendar.csv** - Contains what appears to be availailites for listings in Seattle. Each listing is identified with an unique listing_id.
