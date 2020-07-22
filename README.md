@@ -47,8 +47,8 @@ availability, pricing and amenities for listings between the two cities.
 
 ## Medium_Blog_Post
 
-* The blog post for the insights and results of the analysis can be found here: 
-
+* The blog post for the insights and results of the analysis can be found [here](https://medium.com/@andrew.sleung/where-to-book-your-next-trip-a-comparison-of-airbnb-listings-in-seattle-and-boston-ef36852833cb)
+* Alternate link [here](https://medium.com/@andrew.sleung/where-to-book-your-next-trip-a-comparison-of-airbnb-listings-in-seattle-and-boston-ef36852833cb?sk=c8e14f53f2a2ad794c1302d6982f7a14)
 
 ## Creators
 
